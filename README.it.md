@@ -21,7 +21,7 @@
 ## 🚀 Installazione
 
 ```bash
-clawhub install <skill-name>
+clawhub install openclaw-master-skills
 # oppure
 git clone https://github.com/LeoYeAI/openclaw-master-skills.git
 cp -r openclaw-master-skills/skills/<skill-name> ~/.openclaw/workspace/skills/

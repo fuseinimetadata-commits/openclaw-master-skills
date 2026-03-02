@@ -26,7 +26,7 @@
 
 ```bash
 # Install a single skill via ClaWHub
-clawhub install <skill-name>
+clawhub install openclaw-master-skills
 
 # Or clone and copy manually
 git clone https://github.com/LeoYeAI/openclaw-master-skills.git

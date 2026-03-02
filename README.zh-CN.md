@@ -26,7 +26,7 @@
 
 ```bash
 # 通过 ClaWHub 安装单个 skill
-clawhub install <skill-name>
+clawhub install openclaw-master-skills
 
 # 或 clone 后手动复制
 git clone https://github.com/LeoYeAI/openclaw-master-skills.git
